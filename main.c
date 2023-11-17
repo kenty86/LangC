@@ -2,7 +2,6 @@
 
 int main(void)
 {
-    printf("I'm from \n");
-    printf("Fukuoka prefecture\n");
+    printf("%d",1000);
     return 0;
 }
