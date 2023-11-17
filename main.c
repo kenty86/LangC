@@ -2,6 +2,7 @@
 
 int main(void)
 {
-    printf("Hello Kento");
+    printf("I'm from \n");
+    printf("Fukuoka prefecture\n");
     return 0;
 }
