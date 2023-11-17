@@ -2,6 +2,5 @@
 
 int main(void)
 {
-    printf("%d+%d=%d",1000,2000,3000);
-    return 0;
+    printf("実行結果\n%d\n",1000+2000);
 }
