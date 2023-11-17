@@ -2,5 +2,9 @@
 
 int main(void)
 {
-    printf("実行結果\n%d\n",1000+2000);
+    int price;
+    price =100;
+    price++;
+    printf("%d\n",price);//変数宣言
+    return 0;
 }
