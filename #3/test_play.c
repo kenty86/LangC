@@ -1,8 +1,7 @@
 #include<stdio.h>
 int main(){
-    int a = 6;
-    if (a < 10){
-        printf("eは10未満です\n");
+    for(int i = 1; i < 5; i++){
+        printf("%d\n" , i);
     }
     return 0;
 }
