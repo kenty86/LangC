@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main(){
     int a = 6;
-    if (a < 10){
-        printf("eは10未満です\n");
+    if (a > 5){
+        printf("aは5より大きい\n");
     }
     return 0;
 }
